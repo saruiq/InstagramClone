@@ -8,10 +8,10 @@ Time spent: **20** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can sign up to create a new account using Parse authentication.
-- [ ] User can log in and log out of his or her account.
-- [ ] The current signed in user is persisted across app restarts.
-- [ ] User can take a photo, add a caption, and post it to "Instagram".
+- [x] User can sign up to create a new account using Parse authentication.
+- [x] User can log in and log out of his or her account.
+- [x] The current signed in user is persisted across app restarts.
+- [x] User can take a photo, add a caption, and post it to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-Some challenges that I faced with this app is that I am currently trying to figure out why I can't login into my account. I hope to continue working on this project and finish it as soon as possible!
+Some challenges that I faced with this app is that I had issues with logging into my app, trying to get my post recognized by the Back4App websites, and dealing with different issues regarding my version of Android Studio, alongside the typical struggle of dealing with the slowness and the glitching screen I was able to finally overcome these problems and finish the app!
 
 ## Open-source libraries used
 
