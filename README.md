@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-Some challenges that I faced with this app is that I had issues with logging into my app, trying to get my post recognized by the Back4App websites, and dealing with different issues regarding my version of Android Studio, alongside the typical struggle of dealing with the slowness and the glitching screen I was able to finally overcome these problems and finish the app!
+Some challenges that I faced with this app is that I had issues with logging into my app, trying to get my post recognized by the Back4App websites, and dealing with different issues regarding my version of Android Studio, alongside the typical struggle of dealing with the slowness and the glitching screen. Eventually, I was able to finally overcome these problems and finish the app!
 
 ## Open-source libraries used
 
